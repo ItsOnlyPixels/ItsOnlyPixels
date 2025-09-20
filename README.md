@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ItsOnlyPixels
-- 👀 I’m interested in getting my mind into sth
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on literally anything
+- 👀 I’m interested in contributing to open source projects
+- 🌱 I’m currently into machine learning and deep learning path!
 - 📫 How to reach me ig:its_only_pixels
 - 😄 Pronouns: WEEEEE
 - ⚡ Fun fact: I just quit gambling
